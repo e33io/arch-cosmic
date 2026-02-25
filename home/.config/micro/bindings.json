@@ -1,0 +1,7 @@
+{
+    "Alt-/": "lua:comment.comment",
+    "Alt-o": "command:fzf",
+    "Alt-u": "command:upper",
+    "Alt-l": "command:lower",
+    "Alt-t": "command:title"
+}
