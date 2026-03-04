@@ -2,7 +2,7 @@
 
 # =============================================================================
 # Install COSMIC (desktop environment) on Arch Linux
-# URL: https://github.com/e33io/arch-cosmic/blob/main/install-cosmic.sh
+# URL: https://github.com/e33io/arch-cosmic/blob/main/install.sh
 # -----------------------------------------------------------------------------
 # Use this script at your own risk, it will overwrite existing files!
 # Works best with a fresh "Minimal" archinstall (Profile > Type > Minimal)
@@ -12,10 +12,9 @@
 # NOTE: Default COSMIC theming is used, custom theming configs are WIP
 # -----------------------------------------------------------------------------
 # Instructions for running this script:
-#   sudo pacman -S git
 #   git clone https://github.com/e33io/arch-cosmic
 #   cd arch-cosmic
-#   sh install-cosmic.sh
+#   sh install.sh
 # =============================================================================
 
 if [ "$(id -u)" = 0 ]; then
