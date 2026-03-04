@@ -12,7 +12,6 @@
 # NOTE: Default COSMIC theming is used, custom theming configs are WIP
 # -----------------------------------------------------------------------------
 # Instructions for running this script:
-#   sudo pacman -S git
 #   git clone https://github.com/e33io/arch-cosmic
 #   cd arch-cosmic
 #   sh install-cosmic.sh
