@@ -17,7 +17,7 @@ git clone https://github.com/e33io/arch-cosmic
 cd arch-cosmic
 
 # run script
-sh install.sh
+sh install-cosmic.sh
 ```
 
 &nbsp;
